@@ -1,0 +1,10 @@
+# Your personal stuff stays on your computer
+lazy-doll-profile.yml
+lazy-doll-memes/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+__pycache__/
+.DS_Store

@@ -1,0 +1,33 @@
+# Your Strategically Lazy Doll profile.
+# The setup interview fills this in for you. You can also edit it by hand.
+# Keep it in your project folder as lazy-doll-profile.yml.
+
+name: ""                       # how the doll is described, e.g. "Maya"
+business: ""                   # one line: what you do, e.g. "bookkeeping for salons"
+
+audience:
+  who: ""                      # e.g. "women who own small service businesses, 30-50"
+  what_they_joke_about: []     # e.g. [husbands who don't help, being tired, the group chat, girl math]
+  emotional_core: ""           # the weight they carry, e.g. "they hold the whole business together and nobody notices"
+
+targets:                       # what the memes roast. Situations and things, never a real person.
+  - ""                         # e.g. "clients who pay 60 days late"
+  - ""                         # e.g. "'quick calls' that take an hour"
+
+offers:                        # what you sell. The joke never names it; the caption can.
+  - name: ""
+    result: ""                 # said as a result: "invoices that chase themselves"
+
+voice:
+  edge: savage                 # savage | cheeky | soft. Savage gets forwarded.
+  never_say: []                # words or topics you won't touch
+
+look:
+  hair: ""                     # e.g. "long brunette waves" (kept in every image)
+  photos: []                   # paths or file names of your 2 reference photos
+  style_reference: ""          # optional doll-look reference image
+  signature_props: []          # e.g. [iced coffee, pink laptop]
+
+output:
+  folder: "lazy-doll-memes"    # where finished files go
+  text_font: ""                # optional path to a .ttf/.otf; default Inter SemiBold or DejaVu Sans Bold
